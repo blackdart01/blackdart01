@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Srijan!](https://code-diggers.github.io)
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Srijan!](https://code-diggers.github.io)
 Passionate Coder in love with Web Dev and now shifting towards Python coz it's awesome.
 
 <!--
@@ -16,8 +16,8 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 - ⚡ Fun fact: ...
 -->
 <br />
-## CONTACT ME
-<br />
+
+## Connect with Me 📬
 <a href="https://www.linkedin.com/in/srijan-agrawal-47058b1a0/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -34,7 +34,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 <br />
-
+<br />
 ## About Me 🚀
 🎓 I’m a Web Dev enthusiast & a 3rd year student pursuing my Bachelors in Computer Science & Engineering from SSIPMT. </br>
 👨‍💻  I am passionate about CP, Web Dev, Machine Learning, Graphic Designing & I enjoy learning new things. </br>
@@ -54,7 +54,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 
 <br />
 <br />
-
+## My Github Stats 📈
 ![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=blackdart01&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.blackdart01)
