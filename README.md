@@ -1,5 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Srijan!](https://code-diggers.github.io)
 Passionate Coder in love with Web Dev and now shifting towards Python coz it's awesome.
+
 <!--
 **blackdart01/blackdart01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br /><hr><br />
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/srijan-agrawal-47058b1a0/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -31,6 +33,9 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 
+
+<br />
+<hr>
 <br />
 
 ## About Me 🚀
@@ -50,4 +55,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
  #### - Web Development
  #### - Designing
 
+<br />
+<hr>
+<br />
 ![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=blackdart01&show_icons=true&hide_border=true)
