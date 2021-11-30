@@ -52,4 +52,9 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 ![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=blackdart01&show_icons=true&hide_border=true)
 <br/>
 
+<a href="https://github.com/blackdart01/blackdart01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackdart01&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+</a>
+<br />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.blackdart01)
