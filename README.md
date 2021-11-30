@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Srijan!](https://code-diggers.github.io)
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Srijan!](https://blackdart01.github.io/code-diggers/)
 Passionate Coder in love with Web Dev and now shifting towards Python coz it's awesome.
 
 <br />
