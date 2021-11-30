@@ -36,21 +36,22 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 <br />
 <br />
 ## About Me 🚀
+<br />
 🎓 I’m a Web Dev enthusiast & a 3rd year student pursuing my Bachelors in Computer Science & Engineering from SSIPMT. </br>
 👨‍💻  I am passionate about CP, Web Dev, Machine Learning, Graphic Designing & I enjoy learning new things. </br>
 
 #### * 🔭 I’m currently working on
- ##### - Front End Develpment
+ ###### - Front End Develpment
 #### * 🌱 I’m currently learning
- ##### - Front End Develpment
- ##### - Data Structure and Algorithms
- ##### - Python
- ##### - Adobe XD
- ##### - PHP + MYSQL
- ##### - JAVA
+ ###### - Front End Develpment
+ ###### - Data Structure and Algorithms
+ ###### - Python
+ ###### - Adobe XD
+ ###### - PHP + MYSQL
+ ###### - JAVA
 #### * 🤔 I’m looking for help with
- ##### - Web Development
- ##### - Designing
+ ###### - Web Development
+ ###### - Designing
 
 <br />
 <br />
