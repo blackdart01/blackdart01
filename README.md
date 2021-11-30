@@ -17,6 +17,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 -->
 <br />
 ## CONTACT ME
+<br />
 <a href="https://www.linkedin.com/in/srijan-agrawal-47058b1a0/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -38,18 +39,18 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 🎓 I’m a Web Dev enthusiast & a 3rd year student pursuing my Bachelors in Computer Science & Engineering from SSIPMT. </br>
 👨‍💻  I am passionate about CP, Web Dev, Machine Learning, Graphic Designing & I enjoy learning new things. </br>
 
-### * 🔭 I’m currently working on
- #### - Front End Develpment
-### * 🌱 I’m currently learning
- #### - Front End Develpment
- #### - Data Structure and Algorithms
- #### - Python
- #### - Adobe XD
- #### - PHP + MYSQL
- #### - JAVA
-### * 🤔 I’m looking for help with
- #### - Web Development
- #### - Designing
+#### * 🔭 I’m currently working on
+ ##### - Front End Develpment
+#### * 🌱 I’m currently learning
+ ##### - Front End Develpment
+ ##### - Data Structure and Algorithms
+ ##### - Python
+ ##### - Adobe XD
+ ##### - PHP + MYSQL
+ ##### - JAVA
+#### * 🤔 I’m looking for help with
+ ##### - Web Development
+ ##### - Designing
 
 <br />
 <br />
