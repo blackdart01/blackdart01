@@ -35,6 +35,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 </a> -->
 <br />
 <br />
+
 ## About Me 🚀
 <br />
 🎓 I’m a Web Dev enthusiast & a 3rd year student pursuing my Bachelors in Computer Science & Engineering from SSIPMT. </br>
@@ -42,6 +43,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 
 #### * 🔭 I’m currently working on
  ###### - Front End Develpment
+ <br/>
 #### * 🌱 I’m currently learning
  ###### - Front End Develpment
  ###### - Data Structure and Algorithms
@@ -49,6 +51,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
  ###### - Adobe XD
  ###### - PHP + MYSQL
  ###### - JAVA
+ <br/>
 #### * 🤔 I’m looking for help with
  ###### - Web Development
  ###### - Designing
@@ -57,7 +60,11 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 <br />
 
 ## My Github Stats 📈
+
 <br />
+
 ![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=blackdart01&show_icons=true&hide_border=true)
+
 <br />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.blackdart01)
