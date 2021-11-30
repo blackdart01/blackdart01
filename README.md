@@ -15,7 +15,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br /><br />
+<br />
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/srijan-agrawal-47058b1a0/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -32,9 +32,6 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 <!-- <a href="http://dev.to/kunal">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
-
-
-<br />
 <br />
 
 ## About Me 🚀
@@ -56,5 +53,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 
 <br />
 <br />
+
 ![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=blackdart01&show_icons=true&hide_border=true)
+<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.blackdart01)
