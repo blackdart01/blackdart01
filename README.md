@@ -1,20 +1,6 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Srijan!](https://code-diggers.github.io)
 Passionate Coder in love with Web Dev and now shifting towards Python coz it's awesome.
 
-<!--
-**blackdart01/blackdart01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br />
 
 ## Connect with Me 📬
@@ -37,15 +23,14 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 <br />
 
 ## About Me 🚀
-<br />
 🎓 I’m a Web Dev enthusiast & a 3rd year student pursuing my Bachelors in Computer Science & Engineering from SSIPMT. </br>
 👨‍💻  I am passionate about CP, Web Dev, Machine Learning, Graphic Designing & I enjoy learning new things. </br>
+
 
 #### * 🔭 I’m currently working on
  ###### - Front End Develpment
  
  <br/>
-
 #### * 🌱 I’m currently learning
  ###### - Front End Develpment
  ###### - Data Structure and Algorithms
@@ -55,7 +40,6 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
  ###### - JAVA
 
 <br/>
-
 #### * 🤔 I’m looking for help with
  ###### - Web Development
  ###### - Designing
@@ -65,7 +49,7 @@ Passionate Coder in love with Web Dev and now shifting towards Python coz it's a
 
 ## My Github Stats 📈
 
-<br />
+<br/>
 ![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=blackdart01&show_icons=true&hide_border=true)
-<br />
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=blackdart01.blackdart01)
